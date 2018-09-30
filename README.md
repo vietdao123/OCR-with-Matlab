@@ -1,2 +1,2 @@
 # OCR-with-Matlab
-Simple character recognition with matlab
+#Simple character recognition with matlab
